@@ -1,0 +1,17 @@
+<svg width="28" height="24" viewBox="0 0 28 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M16.2761 9.34375H11.4161C9.69229 9.34375 9.31152 10.2022 9.08999 11.2545L8.30768 14.9999H19.3846L18.6023 11.2545C18.3808 10.2022 18 9.34375 16.2761 9.34375Z" stroke="#BABECC" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M7.31768 16.89C7.4146 15.8515 7.61537 15 9.42922 15H18.2631C20.0769 15 20.2777 15.8515 20.3746 16.89L20.7623 21.1062C20.8384 21.9162 20.1877 22.6154 19.3569 22.6154H18.0554C17.3077 22.6154 17.2038 22.2969 17.0723 21.9023L16.9338 21.4869C16.74 20.9192 16.6154 20.5385 15.6184 20.5385H12.0738C11.0769 20.5385 10.9315 20.9677 10.7584 21.4869L10.62 21.9023C10.4884 22.2969 10.3846 22.6154 9.63691 22.6154H8.33537C7.5046 22.6154 6.85383 21.9162 6.92998 21.1062L7.06152 19.68" stroke="#BABECC" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M8.30769 12.9219H7.61539" stroke="#BABECC" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M20.0769 12.9219H19.3846" stroke="#BABECC" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M13.8461 9.46094V10.8456" stroke="#BABECC" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M12.8077 10.8438H14.8846" stroke="#BABECC" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M9.69229 17.7656H11.7692" stroke="#BABECC" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M15.9231 17.7656H18" stroke="#BABECC" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<mask id="path-10-inside-1_1382_10446" fill="white">
+<path d="M0 1C0 0.447716 0.447715 0 1 0H26.6923C27.2446 0 27.6923 0.447715 27.6923 1V22.0769C27.6923 22.6292 27.2446 23.0769 26.6923 23.0769H1C0.447715 23.0769 0 22.6292 0 22.0769V1Z"/>
+</mask>
+<path d="M-3 1C-3 -1.20914 -1.20914 -3 1 -3H26.6923C28.9014 -3 30.6923 -1.20914 30.6923 1L24.6923 3H3L-3 1ZM27.6923 23.0769H0H27.6923ZM1 23.0769C-1.20914 23.0769 -3 21.2861 -3 19.0769V1C-3 -1.20914 -1.20914 -3 1 -3L3 3V22.0769C3 22.6292 3 23.0769 3 23.0769H1ZM26.6923 -3C28.9014 -3 30.6923 -1.20914 30.6923 1V19.0769C30.6923 21.2861 28.9014 23.0769 26.6923 23.0769H24.6923C24.6923 23.0769 24.6923 22.6292 24.6923 22.0769V3L26.6923 -3Z" fill="#BABECC" mask="url(#path-10-inside-1_1382_10446)"/>
+<rect x="8.30765" y="1.84375" width="0.923077" height="3.69231" rx="0.461538" fill="#BABECC"/>
+<rect x="18.4615" y="1.84375" width="0.923077" height="3.69231" rx="0.461538" fill="#BABECC"/>
+<rect x="7.38458" y="4.60938" width="12.9231" height="2.76923" rx="1" fill="#FFAE12"/>
+</svg>
